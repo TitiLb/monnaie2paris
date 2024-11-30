@@ -1,0 +1,3 @@
+AuthName "ZONE ADMIN"
+AuthType Basic
+AuthUserFile .htpasswd
